@@ -1,0 +1,6 @@
+*.dcu
+*.local
+*.dsk
+*.identcache
+*.res
+**/__history
